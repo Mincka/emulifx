@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/bionicrm/emulifx/server"
+	"github.com/Mincka/emulifx/server"
 	"github.com/spf13/cobra"
 	"log"
 )

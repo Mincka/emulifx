@@ -2,9 +2,9 @@ package server
 
 import (
 	"encoding"
-	"github.com/bionicrm/emulifx/ui"
-	"gopkg.in/lifx-tools/controlifx.v1"
-	"gopkg.in/lifx-tools/implifx.v1"
+	"github.com/Mincka/emulifx/ui"
+	"gopkg.in/Mincka/controlifx.v1"
+	"gopkg.in/Mincka/implifx.v1"
 	"log"
 	"net"
 	"time"

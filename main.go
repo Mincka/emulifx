@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/bionicrm/emulifx/cmd"
+	"github.com/Mincka/emulifx/cmd"
 )
 
 func main() {
